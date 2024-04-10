@@ -13,10 +13,10 @@ OLÁ! sou a Lavínia!!
   <img align="center" alt="Lavinia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lavinia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lavinia-Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Lavinia-Java" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
+  <img align="center" alt="Mary-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lavinia-Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="Lavinia-Jest" height="40" width="40" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
-  <img align="center" alt="Lavinia-Jest" height="40" width="40" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1954x2048-08uox8qu.png">
+  <img align="center" alt="Lavinia-Mysql" height="40" width="40" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1954x2048-08uox8qu.png">
 </div>
   
   ##
