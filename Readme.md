@@ -1,13 +1,12 @@
 ## Olá👋🏾!
 
-- 🖥️: focada em desenvolvimento web Full Stack.
-- 🌱: atualmente estou aprofundando meus conhecimentos em ` Reactjs ` .
-- 🔎: tenho interesses em outras áreas da tecnologia.
+- 🖥️: Focada em desenvolvimento web Full Stack.
+- 🌱: Atualmente estou aprofundando meus conhecimentos em ` Reactjs ` .
+- 🔎: Tenho interesses em outras áreas da tecnologia.
 
   <div align="center">
     <a href="https://github.com/laviniiabenvindo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laviniiabenvindo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniiabenvindo&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniiabenvindo&layout=compact&langs_count=7&theme=dracula"/>
   </div>
       
   <hr>
