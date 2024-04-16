@@ -32,5 +32,5 @@
   <hr>
   
   <div align="center">
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980" style="max-width: 100%;">
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/1744563317713206002/BDC7D8B84E5244C42501E059448DC479BBC85324/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Itachi Uchiha" width="980" style="max-width: 100%;">
   </div>
