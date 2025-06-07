@@ -1,8 +1,8 @@
 ## Olá👋🏾!
 
-- 🖥️: Focada em desenvolvimento web Full Stack.
-- 🌱: Atualmente estou aprofundando meus conhecimentos em ` Java ` .
-- 🔎: Tenho interesses em outras áreas da tecnologia.
+- 🖥️: Focada em desenvolvimento web Full Stack;
+- 🌱: Atualmente estou cursando cienência da computação;
+- 🔎: Tenho interesses em outras áreas da tecnologia;
 
   <div align="center">
     <a href="https://github.com/laviniiabenvindo">
