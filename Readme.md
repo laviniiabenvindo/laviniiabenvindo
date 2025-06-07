@@ -1,7 +1,7 @@
 ## Olá👋🏾!
 
 - 🖥️: Focada em desenvolvimento web Full Stack;
-- 🌱: Atualmente estou cursando cienência da computação;
+- 🌱: Atualmente estou cursando ciência da computação;
 - 🔎: Tenho interesses em outras áreas da tecnologia;
 
   <div align="center">
